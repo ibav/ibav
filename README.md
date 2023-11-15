@@ -8,5 +8,5 @@
 ibav/ibav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://github-readme-stats.vercel.app/api?username=ibav&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)  
+![ibav's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibav&count_private=true&show_icons=true)  
 ![](https://raw.githubusercontent.com/ibav/ibav/main/assets/github-contribution-grid-snake.svg)
